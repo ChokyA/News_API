@@ -12,8 +12,8 @@
 <br>
 
 ## Features
-- Menampilkan berita - berita Luar Negeri Amerika Serikat
-- Untuk Penggunaan Bahasa, Text adalah bahasa Inggris 
+- Menampilkan berita - berita yang terjadi di Amerika Serikat
+- Bahasa yang digunakan adalah teks Berbahasa Inggris
 
 <br>
 
